@@ -66,10 +66,6 @@ class Eyeball {
         ctx.fill();
         ctx.closePath();
     }
-    update(){
-
-    }
-        
 }
 
 function init() {
