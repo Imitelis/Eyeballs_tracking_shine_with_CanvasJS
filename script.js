@@ -7,8 +7,8 @@ let eyeballs = [];
 let theta;
 
 let mouse = {
-    x: null,
-    y: null
+    x: canvas.width/2,
+    y: canvas.height/2
 }
 
 window.addEventListener('mousemove',
